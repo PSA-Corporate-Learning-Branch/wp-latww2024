@@ -117,7 +117,7 @@ date_default_timezone_set('America/Vancouver');
                                             <video class="card-img-top" controls poster="<?= esc_url($recordingPoster) ?>">
                                                 <source src="<?= esc_url($recordingURL) ?>" type="video/mp4">
                                                 <?php if ($recordingVTT): ?>
-                                                    <track src="<?= esc_url($recordingVTT) ?>" kind="captions" srclang="en" label="English">
+                                                    <track src="<?= esc_url(latww_caption_url($recordingVTT)) ?>" kind="captions" srclang="en" label="English">
                                                 <?php endif; ?>
                                                 Your browser does not support the video tag.
                                             </video>
