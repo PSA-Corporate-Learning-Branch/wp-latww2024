@@ -78,7 +78,7 @@ while (have_posts()) :
                                     <h2>Session recording</h2>
                                     <video class="ratio ratio-16x9 mb-2" controls poster="<?= $recordingPoster ?>">
                                         <source src="<?= $recordingURL ?>" type="video/mp4">
-                                        <track src="<?= $recordingVTT ?>" kind="captions" srclang="en" label="English">
+                                        <track src="<?= esc_url(latww_caption_url($recordingVTT)) ?>" kind="captions" srclang="en" label="English">
                                         Your browser does not support the video tag.
                                     </video>
                                     <?php if(!empty($recordingTranscript)): ?>
