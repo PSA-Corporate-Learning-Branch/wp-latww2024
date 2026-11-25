@@ -33,7 +33,7 @@ while (have_posts()) :
                 <h3>Accessibility</h3>
                 <p>All sessions include ASL interpretation and CART services.</p>
                 <!-- <a href="https://www.streamtext.net/player?event=bcpsa" target="_blank" class="btn btn-primary">Access CART services with Streamtext</a> -->
-                <p>If you need any accommodations to participate in L@WW, please <a href="https://sfs7.gov.bc.ca/affwebservices/public/saml2sso?SPID=urn:ca:bc:gov:customerportal:prod">submit an AskMyHR service request</a> using the category "Learning Centre" as soon as possible.</p>
+                <p>If you need any accommodations to participate in L@WW, please <a href="https://launcher.myapps.microsoft.com/api/signin/604e0574-b937-452b-ab86-cdb084187dfc?tenantId=6fdb5200-3d0d-4a8a-b036-d3685e359adc">submit an AskMyHR service request</a> using the category "Learning Centre" as soon as possible.</p>
                 <div class="card card-body mt-5">
                     <h2>Adding a Class to your Outlook Calendar</h2>
                     <p>The following instructions will show you how to import a class into your Outlook calendar. For general instructions on using the Learning System, please visit the <a href="https://learningcentre.gww.gov.bc.ca/learning-system-help/" target="_blank" class="link-text">Learning System Help</a> page. </p>
