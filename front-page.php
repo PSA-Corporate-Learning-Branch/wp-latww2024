@@ -40,7 +40,7 @@
                         <h3 class="card-title fs-4">Accessibility</h3>
                         <p class="card-text">All sessions include ASL interpretation and CART services.</p>
                         <!-- <a href="https://www.streamtext.net/player?event=bcpsa" target="_blank" class="btn btn-primary mb-3">Access CART services with Streamtext</a> -->
-                        <p class="card-text">If you need any accommodations to participate in L@WW, please <a href="https://sfs7.gov.bc.ca/affwebservices/public/saml2sso?SPID=urn:ca:bc:gov:customerportal:prod">submit an AskMyHR service request</a> using the category "Learning Centre".</p>
+                        <p class="card-text">If you need any accommodations to participate in L@WW, please <a href="https://launcher.myapps.microsoft.com/api/signin/604e0574-b937-452b-ab86-cdb084187dfc?tenantId=6fdb5200-3d0d-4a8a-b036-d3685e359adc">submit an AskMyHR service request</a> using the category "Learning Centre".</p>
                     </div>
                 </div>
                 <div class="mt-4">
